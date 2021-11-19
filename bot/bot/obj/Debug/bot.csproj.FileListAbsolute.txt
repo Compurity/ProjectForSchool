@@ -1,0 +1,27 @@
+C:\Users\wings\source\repos\bot\bot\bin\Debug\bot.exe.config
+C:\Users\wings\source\repos\bot\bot\bin\Debug\bot.exe
+C:\Users\wings\source\repos\bot\bot\bin\Debug\bot.pdb
+C:\Users\wings\source\repos\bot\bot\obj\Debug\bot.csprojAssemblyReference.cache
+C:\Users\wings\source\repos\bot\bot\obj\Debug\bot.Form1.resources
+C:\Users\wings\source\repos\bot\bot\obj\Debug\bot.Properties.Resources.resources
+C:\Users\wings\source\repos\bot\bot\obj\Debug\bot.csproj.GenerateResource.cache
+C:\Users\wings\source\repos\bot\bot\obj\Debug\bot.exe
+C:\Users\wings\source\repos\bot\bot\obj\Debug\bot.pdb
+C:\Users\Nicolas Kapps\Desktop\bot\bot\bin\Debug\bot.exe.config
+C:\Users\Nicolas Kapps\Desktop\bot\bot\bin\Debug\bot.exe
+C:\Users\Nicolas Kapps\Desktop\bot\bot\bin\Debug\bot.pdb
+C:\Users\Nicolas Kapps\Desktop\bot\bot\obj\Debug\bot.csprojAssemblyReference.cache
+C:\Users\Nicolas Kapps\Desktop\bot\bot\obj\Debug\bot.Form1.resources
+C:\Users\Nicolas Kapps\Desktop\bot\bot\obj\Debug\bot.Properties.Resources.resources
+C:\Users\Nicolas Kapps\Desktop\bot\bot\obj\Debug\bot.csproj.GenerateResource.cache
+C:\Users\Nicolas Kapps\Desktop\bot\bot\obj\Debug\bot.exe
+C:\Users\Nicolas Kapps\Desktop\bot\bot\obj\Debug\bot.pdb
+C:\Users\Nicolas Kapps\Desktop\BullShit\bot\bot\bin\Debug\bot.exe.config
+C:\Users\Nicolas Kapps\Desktop\BullShit\bot\bot\bin\Debug\bot.exe
+C:\Users\Nicolas Kapps\Desktop\BullShit\bot\bot\bin\Debug\bot.pdb
+C:\Users\Nicolas Kapps\Desktop\BullShit\bot\bot\obj\Debug\bot.csprojAssemblyReference.cache
+C:\Users\Nicolas Kapps\Desktop\BullShit\bot\bot\obj\Debug\bot.Form1.resources
+C:\Users\Nicolas Kapps\Desktop\BullShit\bot\bot\obj\Debug\bot.Properties.Resources.resources
+C:\Users\Nicolas Kapps\Desktop\BullShit\bot\bot\obj\Debug\bot.csproj.GenerateResource.cache
+C:\Users\Nicolas Kapps\Desktop\BullShit\bot\bot\obj\Debug\bot.exe
+C:\Users\Nicolas Kapps\Desktop\BullShit\bot\bot\obj\Debug\bot.pdb
